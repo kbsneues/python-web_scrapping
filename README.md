@@ -1,4 +1,4 @@
-# python-web_scrapping
-# STUDY : 2020/9/11 ~ 2020/9/20
-indeed , stackoverflow 일자리 정보 추출 (python)
-
+<div align="center">
+<h2> 🧑🏻‍💻indeed , stackoverflow 일자리 정보 추출🧑🏻‍💻 </h2>
+Python 를 이용하여 indeed , stackoverflow 일자리 정보를 추출하였습니다
+</div>
